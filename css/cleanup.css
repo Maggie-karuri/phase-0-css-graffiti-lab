@@ -1,1 +1,19 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    border-bottom: 75px silver;
+    background-color: antiquewhite;
+  }
+  .tag-1,
+  #tag-2 {
+    color: blueviolet;
+}
+#tag-3,
+#tag-5 {
+    background-size: auto;
+    color: blueviolet;
+}
+#tag-4,
+#tag-5 {
+    text-justify: inherit;
+}
